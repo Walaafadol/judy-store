@@ -780,3 +780,5 @@ $(document).ready(function () {
         }, 10000)
     }
 });
+let qty = document.getElementById("qty");
+qty.textContent="hhhhh"
